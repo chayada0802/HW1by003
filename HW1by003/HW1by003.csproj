@@ -5,4 +5,9 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="C:\Users\ACER\OneDrive - King Mongkut’s University of Technology Thonburi %28KMUTT%29\Desktop\HW1-2.cs" Link="HW1-2.cs" />
+    <Compile Include="C:\Users\ACER\OneDrive - King Mongkut’s University of Technology Thonburi %28KMUTT%29\Documents\Hw1003.cs" Link="Hw1003.cs" />
+  </ItemGroup>
+
 </Project>
